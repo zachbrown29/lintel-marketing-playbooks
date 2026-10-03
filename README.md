@@ -2,7 +2,7 @@
 
 A Claude skill that answers B2B software marketing questions with a consistent method instead of generic advice: diagnose first, name the one framework that owns the question, give the build steps and the numbers, and say plainly when the answer is not here.
 
-Built for seed to Series B B2B software companies.
+Built for seed to Series B B2B software companies, and deliberately kept there. At Series C and beyond the method and the build sequences still hold, but the benchmarks were written for smaller companies and the skill will say so instead of handing you a number from the wrong stage.
 
 ## What it is for
 
@@ -35,7 +35,7 @@ The four tiers, used the same way in every file: **Reactive** (happens when some
 
 It does not write the copy, run the campaign, or replace knowing your own customers. It does not cover consumer marketing, ecommerce, or enterprise sales motions above the mid-market. It holds no data about any company, so the quality of an answer depends on what you tell it about yours.
 
-Known gaps it will admit to rather than bluff about: review-site programs, website design and information architecture, app store optimisation, layoff communication, and most things past Series B.
+Known gaps it will admit to rather than bluff about: review-site programs, website design and information architecture, app store optimisation, layoff communication, executive compensation, and later-stage benchmarks.
 
 ## How honest the numbers are
 

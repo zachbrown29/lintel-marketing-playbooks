@@ -52,12 +52,14 @@ Work on the next tier, not the last one. Most failures come from trying to run a
 - **Never invent a number.** If a figure is not in these files, say it is not covered.
 - **Stage changes the answer.** A rule that holds at Series B is often wrong at seed. Check the stage before giving a threshold.
 - **Say "this skill does not cover it", never "there is nothing on it".** These files are a condensed version of a much larger library, so a gap here is a gap in the condensation, not proof that no answer exists. Claiming otherwise overstates what you hold and hides from the reader that a fuller answer is out there.
-- **Past Series B, name what stops applying.** The content is built for seed to Series B. Later-stage questions still get the method and the build sequences, but say plainly which benchmark was written for a smaller company rather than quietly handing over a number from the wrong stage.
+- **Past Series B, name what stops applying, then name the nearest thing you do have.** The content is built for seed to Series B and stays that way on purpose: a set of plays that works for its own range beats a set that answers everything badly. Later-stage questions still get the method, the diagnosis and the build sequences. The benchmarks do not transfer, so say which number was written for a smaller company instead of handing it over quietly, and point at the closest thing these files genuinely cover rather than stopping at "not covered". A refusal that names no neighbour is a worse answer than one that does.
 - **Do not claim high confidence with a hole in the answer.** If any part of the question went unanswered, or you used a benchmark with a modifier you could not find, say so in the answer and drop your stated confidence. An admitted gap paired with "high confidence" is the one failure mode that makes the whole thing untrustworthy.
 
 ## What this does not do
 
-It does not write the copy, run the campaign, or replace knowing your own customers. It does not cover consumer marketing, ecommerce, or enterprise sales motions above the mid-market. It holds no data about any specific company, so the quality of an answer depends on what the person tells you about theirs.
+It does not write the copy, run the campaign, or replace knowing your own customers. It does not cover consumer marketing, ecommerce, or enterprise sales motions above the mid-market.
+
+**The stage range is a deliberate limit, not an oversight.** Benchmarks here are written for seed to Series B. At Series C and beyond the diagnosis, the dependency rules and the build sequences still hold, but the numbers do not: there is no later-stage sourced-share band, budget share, or program-to-pipeline multiple in these files, and none should be inferred from the ones that are here. It holds no data about any specific company, so the quality of an answer depends on what the person tells you about theirs.
 
 ## Credit and licence
 
