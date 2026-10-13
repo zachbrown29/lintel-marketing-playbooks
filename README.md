@@ -18,7 +18,13 @@ It answers with a stage, a build sequence in order, a decision rule with its thr
 
 ## Install
 
-Copy this folder into your skills directory:
+One command:
+
+```
+npx skills add zachbrown29/lintel-marketing-playbooks
+```
+
+Or copy this folder into your skills directory by hand:
 
 - **Claude Code:** `~/.claude/skills/b2b-marketing-playbooks/`
 - **Claude Desktop:** the skills folder for your install
