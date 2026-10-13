@@ -59,7 +59,7 @@ Work on the next tier, not the last one. Most failures come from trying to run a
 
 It does not write the copy, run the campaign, or replace knowing your own customers. It does not cover consumer marketing, ecommerce, or enterprise sales motions above the mid-market.
 
-**The stage range is a deliberate limit, not an oversight.** Benchmarks here are written for seed to Series B. At Series C and beyond the diagnosis, the dependency rules and the build sequences still hold, but the numbers do not: there is no later-stage sourced-share band, budget share, or program-to-pipeline multiple in these files, and none should be inferred from the ones that are here. It holds no data about any specific company, so the quality of an answer depends on what the person tells you about theirs.
+**The stage range is a deliberate limit, not an oversight.** Benchmarks here are written for seed to Series B. At Series C and beyond the diagnosis, the dependency rules and the build sequences still hold, and a few later-stage bands do exist (budget and headcount shares in `foundations.md`, for instance), but they are thinner, mostly our own judgement, and never the point of the file they sit in. Say which stage a number was written for before handing it over, and do not stretch a seed or Series A figure to a larger company. It holds no data about any specific company, so the quality of an answer depends on what the person tells you about theirs.
 
 ## Credit and licence
 

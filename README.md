@@ -39,7 +39,7 @@ Known gaps it will admit to rather than bluff about: review-site programs, websi
 
 ## How honest the numbers are
 
-Every benchmark is either credited to whoever published it or marked as our own judgement from practice. Nothing here is attributed to an analyst firm, because figures we could not trace to a real published report were stripped rather than dressed up with a citation. Models created by other people (MEDDIC, SPIN, NPS, Jobs to Be Done, the Bowtie, and others) are credited in [CREDITS.md](CREDITS.md), with a short list of credits still to verify.
+Every benchmark is either credited to whoever published it or marked as our own judgement from practice. No figure here is credited to an analyst firm we could not check: those citations were stripped rather than dressed up, which is why most numbers read as judgement. One benchmark keeps its original credit (SDR meeting volume, to The Bridge Group) and says on its own line that we have not verified it against the report. Models created by other people (MEDDIC, SPIN, NPS, Jobs to Be Done, the Bowtie, and others) are credited in [CREDITS.md](CREDITS.md), with a short list of credits still to verify.
 
 It has been tested. On 25 real questions, scored side by side against the 3.5M-word library it was condensed from, it held up: better on 16 questions, worse on 5, level on 4. The judging was not blind and the margin was close to judge noise, so read that as "the short version does not lose much", not as a win.
 
